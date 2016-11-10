@@ -1,0 +1,13 @@
+frmMain = 44, 44, 579, 492, , 22, 22, 557, 470, 
+DirectX = 66, 66, 601, 514, 
+Main_Mod = 88, 88, 623, 536, 
+API = 22, 22, 569, 470, C
+DirectInput = 154, 154, 701, 602, 
+Math = 132, 132, 679, 580, 
+Integration = 176, 176, 723, 624, 
+Physics = 110, 110, 657, 558, 
+VB5_String_Functions = 154, 154, 695, 602, 
+DirectSound = 176, 176, 717, 624, 
+Force = 0, 0, 546, 448, C
+DirectXGraphics = 66, 66, 612, 514, C
+Torque = 176, 176, 603, 624, Z
